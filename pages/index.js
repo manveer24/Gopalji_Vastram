@@ -14,9 +14,8 @@ export default function Home() {
               Cushioning for Your Miles
             </div>
             <div className="text-md md:text-xl">
-              A lightweight Nike ZoomX midsole is combined with increased stack
-              heights to help provide cushioning during extended stretches of
-              running.
+             नमो विश्वस्वरूपाय विश्वस्थित्यन्तहेतवे। विश्वेश्वराय विश्वाय
+                गोविन्दाय नमो नमः
             </div>
           </div>
           {/* heading and paragaph end */}
